@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="![Prework](https://github.com/DheerajKumar-M/web102_prework/assets/61615825/e8d63466-ac8f-4582-9343-d919edb0befa)" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src="https://github.com/DheerajKumar-M/web102_prework/assets/61615825/e8d63466-ac8f-4582-9343-d919edb0befa" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 Created GIF using Screrentogif.
